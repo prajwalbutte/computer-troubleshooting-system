@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2026-10-15 00:08",
+    "problem": "Computer is very slow",
+    "diagnoses": [
+      "Overheating / cooling problem",
+      "High background disk activity"
+    ]
+  },
+  {
+    "date": "2026-10-15 00:09",
+    "problem": "Wi-Fi / internet is not working",
+    "diagnoses": [
+      "Local network configuration problem"
+    ]
+  },
+  {
+    "date": "2026-10-15 00:17",
+    "problem": "Computer is very slow",
+    "diagnoses": [
+      "Possible malware or unwanted software",
+      "Overheating / cooling problem",
+      "Too many startup programs"
+    ]
+  },
+  {
+    "date": "2026-10-15 00:18",
+    "problem": "Printer is not printing",
+    "diagnoses": [
+      "Printer is powered off"
+    ]
+  }
+]
